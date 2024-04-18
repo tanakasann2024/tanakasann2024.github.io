@@ -1,0 +1,54 @@
+.mainColumnTop{
+    background-image: url(../src/image/bgTop.jpg);
+    background-size: 50%;
+    background-color:rgba(255,255,255,0.6);
+    background-blend-mode:lighten;
+    background-repeat: repeat;
+}
+
+.mainColumnTop h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.topBody{
+    display: flex;
+}
+
+.topBodyLeft{
+    width: 40%;
+}
+
+.topBodyRight{
+    width: 100%;
+}
+
+.topProfileItem{
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    width: 90%;
+}
+
+.topProfileImg {
+    width: 100%;
+}
+
+.topInfoHeader{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.topInfoItem{
+    border-top: 0.5px solid #000000;
+    font-weight: bold;
+    padding: 1rem 1rem;
+    margin:0 2rem;
+}
+
+.textEmphasized{
+    color: rgb(232, 38, 38);
+}
+
+.topInfoItemBody{
+    margin-left: 6rem;
+}
