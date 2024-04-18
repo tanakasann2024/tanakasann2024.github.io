@@ -1,0 +1,9 @@
+.mainColumnWorks{
+    background-image: url(../src/image/drama.jpg);
+    background-size: 30%;
+    background-repeat: repeat;
+}
+
+.mainBody {
+    margin-left: 15rem;
+}
