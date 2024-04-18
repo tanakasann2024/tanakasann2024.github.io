@@ -1,0 +1,16 @@
+.mainColumn {
+    background-image: url(../src/image/stage.jpg);
+    background-size: 30%;
+    background-color:rgba(255,255,255,0.6);
+    background-blend-mode:lighten;
+    background-repeat: repeat;
+}
+
+.mainColumnWorks{
+    padding: 0 3rem;   
+}
+
+.movieBody tr{
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
