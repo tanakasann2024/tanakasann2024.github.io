@@ -1,0 +1,6 @@
+.mainColumnWorks{
+    padding: 0 3rem;
+    background-size: 30%;
+    background-image: url(../src/image/Movie.jpg);
+    background-repeat: repeat;
+}
