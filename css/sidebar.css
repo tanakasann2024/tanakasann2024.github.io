@@ -41,3 +41,10 @@
 .sideLinkManager{
     color: #d420b3;
 }
+
+@media (max-width:600px) {
+.sidebar {
+    width:50%;
+    }
+}
+
