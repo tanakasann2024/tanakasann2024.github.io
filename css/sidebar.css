@@ -41,10 +41,3 @@
 .sideLinkManager{
     color: #d420b3;
 }
-
-@media (max-width:600px) {
-.sidebar > ul {
-    top: 1rem;
-    left: -0.7rem;
-    padding:o.5rem 0;
-}
