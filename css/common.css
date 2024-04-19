@@ -27,3 +27,9 @@ body{
     padding-top: 2rem;
     text-align: center;
 }
+
+@media (max-width:600px) {
+.body {
+    width:50%;
+    }
+}
